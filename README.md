@@ -22,6 +22,7 @@
 - 📄 Know about my experiences [https://emmanuelfestus.netlify.app/EMMANUEL%20FESTUS'S%20RESUME.pdf](https://emmanuelfestus.netlify.app/EMMANUEL%20FESTUS'S%20RESUME.pdf)
 
 - ⚡ Fun fact **I code in my head**
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=generalaike" alt="generalaike" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
